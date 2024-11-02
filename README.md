@@ -1,25 +1,55 @@
-# 📦 Streamlit App Starter Kit 
+# Marketing Insights
+
+## Project Description
+
+Marketing Insights is a data-driven project aimed at generating and analyzing employee data, app user data, and champion data. The project uses the Faker library to generate synthetic data and pandas for data manipulation and analysis. The generated data is saved in CSV files and can be used for various marketing insights and strategies.
+
+## Documentation
+
+### Dependencies
+
+To install the required dependencies, run the following command:
+
 ```
-⬆️ (Replace above with your app's name)
+pip install -r requirements.txt
 ```
 
-Description of the app ...
+### Data Generation
 
-## Demo App
+The `data_generation.py` script generates the following data:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+- Employee data
+- App user data
+- Champion data
+- App usage KPIs
+- Champions KPIs
 
-## GitHub Codespaces
+To generate the data, run the following command:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+```
+python data_generation.py
+```
 
-## Section Heading
+The generated files will be saved in the `data` directory:
 
-This is filler text, please replace this with text for this section.
+- `data/employees.csv`
+- `data/app_users.csv`
+- `data/champions.csv`
+- `data/app_usage_kpis.csv`
+- `data/champions_kpis.csv`
+
+### Streamlit App
+
+The project includes a Streamlit app for visualizing the generated data. To run the Streamlit app, use the following command:
+
+```
+streamlit run streamlit_app.py
+```
+
+The app provides a dashboard with key metrics and visualizations for employees, app usage, and champions.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+- [Faker Documentation](https://faker.readthedocs.io/en/master/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
