@@ -1,5 +1,7 @@
 from faker import Faker
 import random
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
 
 fake = Faker()
 
@@ -47,3 +49,31 @@ def generate_champions(users, num_champions=20):
         }
         champions.append(champion)
     return champions
+
+def clean_and_preprocess_data(df):
+    # Handle missing values
+    df = df.dropna()
+
+    # Normalize numerical columns
+    scaler = MinMaxScaler()
+    numerical_cols = df.select_dtypes(include=['float64', 'int64']).columns
+    df[numerical_cols] = scaler.fit_transform(df[numerical_cols])
+
+    return df
+
+def aggregate_kpis(users, champions):
+    users_df = pd.DataFrame(users)
+    champions_df = pd.DataFrame(champions)
+
+    # Aggregate KPIs for app usage
+    app_usage_kpis = users_df.groupby('User ID').agg({
+        'Number of Visits': 'sum',
+        'Duration of Stay': 'mean'
+    }).reset_index()
+
+    # Aggregate KPIs for champions by specialization
+    champions_kpis = champions_df.groupby('Specialization').agg({
+        'Champion ID': 'count'
+    }).rename(columns={'Champion ID': 'Number of Champions'}).reset_index()
+
+    return app_usage_kpis, champions_kpis
