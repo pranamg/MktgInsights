@@ -80,9 +80,40 @@ def aggregate_kpis(users, champions):
         'Champion ID': 'count'
     }).rename(columns={'Champion ID': 'Number of Champions'}).reset_index()
 
+    save_to_csv(app_usage_kpis, 'data/app_usage_kpis.csv')
+    save_to_csv(champions_kpis, 'data/champions_kpis.csv')
+
     return app_usage_kpis, champions_kpis
 
 def save_to_csv(data, filename):
     df = pd.DataFrame(data)
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     df.to_csv(filename, index=False)
+
+if __name__ == "__main__":
+    # Generate the initial employee data
+    print("Generating employee data...")
+    employees = generate_employees(num_employees=1000)
+    print(f"Generated {len(employees)} employees")
+
+    # Generate app users from the employee pool
+    print("\nGenerating app users...")
+    users = generate_app_users(employees, num_users=200)
+    print(f"Generated {len(users)} app users")
+
+    # Generate champions from the users
+    print("\nGenerating champions...")
+    champions = generate_champions(users, num_champions=20)
+    print(f"Generated {len(champions)} champions")
+
+    # Aggregate and save KPIs
+    print("\nGenerating KPI reports...")
+    app_usage_kpis, champions_kpis = aggregate_kpis(users, champions)
+    print("KPI reports generated")
+
+    print("\nAll files have been generated in the 'data' directory:")
+    print("- data/employees.csv")
+    print("- data/app_users.csv")
+    print("- data/champions.csv")
+    print("- data/app_usage_kpis.csv")
+    print("- data/champions_kpis.csv")
