@@ -1,0 +1,201 @@
+User ID,Name,Age,Gender,Number of Visits,Duration of Stay,Features Used
+54ac54ce-f665-48b9-96b4-a6a8f784cdaf,Rebecca Evans,51,Non-binary,73,8.451545715370061,"['Feature B', 'Feature C', 'Feature A', 'Feature D']"
+559fdb53-ed3c-470c-92ea-b3259cc0bac8,Paul Silva,32,Female,19,6.745854901632385,"['Feature A', 'Feature B', 'Feature D', 'Feature C']"
+f35c4e9c-dc4e-41aa-b2c2-ec7bded21cf9,Samuel Young,65,Male,77,1.0254487406262476,['Feature D']
+fb2665a7-8f6e-44be-98e9-1d6fd2fc4836,Tracy Gonzalez,29,Non-binary,92,2.062239697144289,"['Feature D', 'Feature C']"
+37bae16e-78b6-4f0e-a316-ded1a12376ec,Eugene Mueller,60,Female,89,2.9624063252658805,['Feature D']
+4e414b6b-a858-42ae-b25e-e0520da5740f,Tracy Wilson,60,Male,9,4.62841283661955,"['Feature A', 'Feature B']"
+eac21e0e-ae13-4126-87c1-db2d7e968bc5,Sara Brown,61,Non-binary,19,6.368444842736063,"['Feature B', 'Feature A', 'Feature C']"
+18230cec-10f4-42be-99d9-66321eb0c4ad,Thomas Banks,59,Female,19,3.756096070476876,['Feature B']
+459f8675-7c20-483a-9fcf-c11b75bf25c2,Megan Morris,65,Female,19,2.3668093959210035,"['Feature D', 'Feature C']"
+dd7497f4-b5ad-4926-9bf6-55affbd97b13,Brianna Davis,26,Male,31,6.778245489594615,"['Feature B', 'Feature C', 'Feature D']"
+e3060954-6359-4986-877d-d2f6b6385ce8,Debra Gibbs,25,Male,44,1.608625645182252,"['Feature C', 'Feature D']"
+6baa4efa-dbfe-4da5-92f6-5ccb94a97f94,Susan Gonzalez,29,Non-binary,32,4.636982399627679,"['Feature B', 'Feature C']"
+0140e078-b3a2-4915-92c2-0febda8fe02f,William Moore,34,Male,70,7.236466856448381,"['Feature C', 'Feature B', 'Feature A']"
+3b798b6d-1b1c-4f84-bf9a-d24d7fe33125,Timothy Lee,48,Non-binary,79,9.492352773977041,"['Feature A', 'Feature D', 'Feature C', 'Feature B']"
+1fb224c2-9c72-4b03-b7fa-93b7db41fdbe,Carmen Cummings,51,Non-binary,21,2.014370187682797,"['Feature D', 'Feature B', 'Feature C', 'Feature A']"
+f3a8a5c2-cf8e-4e05-8ada-e914aa54659c,Suzanne Lozano,36,Non-binary,48,3.023381382193242,"['Feature B', 'Feature C', 'Feature A', 'Feature D']"
+abe65480-a251-443b-a41f-9cab04b98ea7,Richard Taylor,43,Female,5,1.3053207459837326,"['Feature D', 'Feature A', 'Feature B']"
+8b964116-8ab9-49a6-b9aa-8f071e89fbae,Christy Frye,32,Non-binary,45,3.4882594263426085,"['Feature D', 'Feature A']"
+222f12dd-16c3-47c7-b692-be20639bcc4d,Peter Reilly,59,Male,20,3.0596390613711133,['Feature B']
+0d4235b8-ed44-43e7-b5d1-510e5635ff34,Gary Peck,33,Non-binary,79,6.769425485967653,"['Feature B', 'Feature D', 'Feature C']"
+178310aa-0127-4c77-84b6-d6ed4df9b839,Leslie Willis,56,Non-binary,64,6.248715922849643,['Feature C']
+68a526c7-1777-4fc2-bc43-850b671f630b,Brittany Farmer,38,Male,68,3.410692929913603,"['Feature B', 'Feature C', 'Feature D']"
+ab18f443-28f4-4044-a8ef-705513278150,Kelly Parsons,23,Male,22,3.976399920972645,['Feature D']
+b836e59e-117e-4c9c-a502-df79a0f61e98,Joshua Benson,59,Male,54,2.2472609161364434,"['Feature B', 'Feature C', 'Feature A', 'Feature D']"
+54966cf6-9e69-4342-8093-5c977df75dbb,Charlene Haynes,63,Male,55,9.176213101309923,"['Feature B', 'Feature C']"
+b5a1c269-f02a-4466-836a-11e23e85dc74,Jeffrey Mclean,59,Non-binary,30,1.00971624856645,"['Feature C', 'Feature D', 'Feature B', 'Feature A']"
+1b2de007-12b6-42f7-9dec-fe321feb4a42,Anthony Rosales,27,Non-binary,38,8.244801184180918,"['Feature D', 'Feature B', 'Feature A']"
+05d6e53f-5d09-4d06-b9a4-cc250f29e2aa,Dorothy Velez,41,Non-binary,6,9.7632844279811,"['Feature A', 'Feature B']"
+965b39c2-35d2-4303-9ee0-cc902881fe34,Margaret Williams,42,Male,38,5.573691968713705,"['Feature A', 'Feature C']"
+13f0d0b2-3095-435e-947c-64a4b0f3a311,Lisa Ross,22,Female,19,5.504161442823821,"['Feature B', 'Feature C', 'Feature D']"
+4d6e5555-db16-4abe-a65e-44e68cf6f993,Jason Odonnell,36,Female,75,7.528538204074939,['Feature D']
+6014f570-f9d2-4604-aae1-348a37601979,Karen Kelly,36,Male,92,5.61780875086027,"['Feature D', 'Feature A']"
+f3556b71-d4fe-4bbc-ba32-8b0469e0f618,Amber Morris,61,Male,13,3.852986609148048,"['Feature A', 'Feature B']"
+f97d9c37-375d-4917-a66c-a315ae44e23a,Carol Bradshaw,22,Non-binary,76,6.37603303475789,"['Feature D', 'Feature A', 'Feature B', 'Feature C']"
+1a2b34aa-e165-4e9b-aa24-43c193f4deba,Adriana Leblanc,41,Non-binary,64,2.7188174322467393,"['Feature D', 'Feature B']"
+4517590b-f207-4bf4-adbf-6a3f8314bc5c,Suzanne Rangel,33,Non-binary,33,9.468832060215076,"['Feature D', 'Feature A', 'Feature C', 'Feature B']"
+4b8cc930-1de8-497c-9d88-d172b6e2cf04,James Villegas,51,Female,35,5.750423659602836,['Feature C']
+1a70c945-683b-41e2-ae3a-29da813ba53c,Luis Cannon,54,Male,40,2.5680278890209554,"['Feature B', 'Feature D', 'Feature C', 'Feature A']"
+0e18b0e6-faf0-41ba-88f0-5f74943f1a2d,Jonathan Payne,47,Female,94,7.246687939728896,['Feature B']
+97d116d1-2ee8-4065-a6de-a34e1c46c290,Gina May,61,Female,34,9.557677869685373,"['Feature C', 'Feature A', 'Feature D']"
+7c43da1a-f6b0-45a4-9f75-ca6399887a1f,Charles Fletcher,40,Female,53,7.235708350869482,"['Feature D', 'Feature A', 'Feature C']"
+98fe2b51-983d-4fd4-b932-68cd78da2135,Christine Robertson,58,Male,78,8.396726850950522,"['Feature A', 'Feature C', 'Feature D']"
+ac55931f-d635-4b5c-8afa-8c3873c5dbda,James Farmer,50,Male,22,3.399279102877067,['Feature B']
+56180e8c-6acb-4c06-8e7f-6568cd0ae0c3,Shane Calhoun,32,Male,94,3.635636347838568,['Feature D']
+ec4184e7-1222-45b9-9ac5-2a6d3ed2ff84,Sonya Morgan,31,Female,99,5.8268152621150096,['Feature C']
+62109d2a-e3f7-4192-8d5e-55547b7f02fc,Ann Butler,51,Non-binary,35,3.983329804796064,"['Feature B', 'Feature D', 'Feature A']"
+1da72947-6b2d-4e51-8aa2-6cda420fc2dd,Steven Wiggins,30,Male,83,9.591679563091844,"['Feature A', 'Feature B', 'Feature C']"
+16dea57e-7095-4520-85ae-3e15a2ee3797,Elizabeth Smith,54,Male,83,4.993548513154171,['Feature C']
+9ffe8688-0b9f-47f5-a557-c5a2a125290a,Mrs. Claudia Lee,55,Male,33,6.553557164180123,"['Feature D', 'Feature A', 'Feature C']"
+f87b803e-bcb8-4176-97be-14f462dbf17b,William Kim,23,Non-binary,32,4.420868562049202,['Feature C']
+d0df4dba-3218-4d99-9603-7d788f6d9ab0,Nathaniel Bentley,27,Female,12,2.025770566782843,['Feature A']
+27d2990a-aa90-4333-b242-cefabc50d4b0,Philip Weber,56,Female,81,6.495085290296716,['Feature A']
+44f8a2b1-59b2-433b-af5e-abae419eaea0,Ruben Reed,63,Non-binary,75,9.280137757662375,"['Feature A', 'Feature C', 'Feature D']"
+6b2886e0-1a54-44f1-8733-ca05e5e2452e,Marilyn Stein,31,Female,9,3.259911138080243,['Feature C']
+773b217e-2fd7-4d93-89b0-0c86775b0f3a,Mikayla Wood,60,Female,57,1.4629485845459593,"['Feature A', 'Feature C', 'Feature D', 'Feature B']"
+4570094b-d364-464a-8b05-70d3ac2e855c,Cindy Jackson,27,Male,63,1.1754281711249597,"['Feature B', 'Feature C', 'Feature A', 'Feature D']"
+078192a5-a53a-4c19-954a-f87e1654a509,Kelsey Lawrence,55,Non-binary,84,5.374367886194394,"['Feature D', 'Feature C']"
+1035db22-69d3-430e-b6b8-faf6e0cf62d2,Victoria Ortiz,63,Male,97,2.4484184216826566,['Feature C']
+2f4312e5-1027-4bf7-b370-4818b5848119,Jacqueline Collins,27,Male,82,3.640700491023657,"['Feature D', 'Feature B']"
+bc0a50b4-3d88-42f8-b3a5-032b5afdb30f,Timothy Barker,44,Non-binary,8,1.4132540825918891,"['Feature C', 'Feature D']"
+e980d2f3-55ab-4d19-bb73-d286dfeee151,Ashley Sandoval,64,Male,40,6.338681407182291,"['Feature A', 'Feature B', 'Feature C']"
+8f935aaa-a9a3-492f-8a18-ed32eb38658f,James Vazquez,40,Female,60,7.002779538750988,"['Feature A', 'Feature D', 'Feature B']"
+37200553-5d17-4371-b2a2-97a4fa182825,William Martinez,34,Non-binary,62,8.34590259928327,"['Feature C', 'Feature B', 'Feature D']"
+36c0e2f8-9d1f-4dfe-b643-25905d527e25,Antonio Hall,64,Non-binary,52,6.808236574320825,['Feature D']
+f2fedde2-fd35-4618-ad5e-5bab95af7068,Michelle Jordan,24,Non-binary,25,8.540938148525607,"['Feature C', 'Feature B', 'Feature A', 'Feature D']"
+2d96a8b0-478e-4e54-9d9e-212f658b1be8,Stephanie Tucker,48,Male,41,4.835176773021364,['Feature A']
+f62a5e80-2ed5-465c-ab79-08bdcde8033c,Kathryn Myers,27,Non-binary,31,1.2333287285200505,"['Feature A', 'Feature C', 'Feature D']"
+e18c3ccc-16d1-4eb0-a33d-04c0b31f50a6,Andrea Ryan,22,Male,54,3.083871734684327,['Feature B']
+e2e0b299-5548-47f4-95c9-c6c6c3f4c116,Justin Odonnell,38,Male,73,2.1407359761095734,"['Feature D', 'Feature A']"
+99edbb75-9f5d-4236-ad5b-e7231c04bb6f,Robert Brown,43,Female,17,9.19907768332246,['Feature B']
+f2859443-0261-49e4-88b7-1671e89c2990,Oscar Miller,28,Female,69,5.3499757150024445,"['Feature D', 'Feature B']"
+510aaa03-a6df-4ba2-88f4-5c9dcf75e48d,Mindy Phillips,30,Non-binary,13,6.909507574979067,"['Feature C', 'Feature B']"
+a60fbc2c-c3d8-4a53-bca9-f4f65f998ae7,Gabriela Ross,46,Female,23,1.1035091206203265,"['Feature C', 'Feature B', 'Feature A', 'Feature D']"
+fce8b534-dfd4-4dec-b399-ee898e0b1889,Nicholas Harrison,22,Non-binary,29,6.547503222111099,"['Feature D', 'Feature B']"
+1174e387-4627-4072-8ba3-84e8a1559c6a,Eric Duffy,61,Non-binary,29,9.815663959176932,"['Feature B', 'Feature C', 'Feature D', 'Feature A']"
+1df17933-58fd-4c47-9305-3dd6a0d4d98e,Carrie Taylor,42,Female,90,8.693642137723078,"['Feature B', 'Feature D', 'Feature A']"
+90561380-236e-4163-ab1f-f81d679e4439,Christopher Mendoza,33,Female,71,3.7164829173998983,['Feature A']
+72fd86c1-c828-412e-b09f-414548c06e30,Michael Foley,46,Non-binary,3,1.3356873746317413,"['Feature A', 'Feature B']"
+2e8fcc09-7579-4433-be9f-39b73efe4236,Patricia Brady,44,Female,66,2.191742494906662,"['Feature A', 'Feature B', 'Feature D']"
+62c80e60-c335-445d-a922-c8de6272f7ab,Olivia Travis,41,Female,40,9.886456165975645,['Feature D']
+ae87df90-c70f-4264-8cc2-192aae726b09,Julie Calderon,47,Female,21,8.36086694269294,"['Feature B', 'Feature D', 'Feature A']"
+4fd9e7e3-87f2-43fe-93f7-5725010510aa,Rodney Davis,33,Female,32,8.2511450399896,"['Feature D', 'Feature C', 'Feature B']"
+c068832a-86a5-4928-b0d3-97c055534a64,Margaret Holmes,22,Non-binary,28,7.492562217785432,['Feature D']
+bc18c3fb-7ef2-4b46-bd3b-0591da8f7d11,Debra Brown,63,Non-binary,46,6.076723209968159,['Feature D']
+ce07feca-fcb0-451a-b6ad-567ddbee78a3,Tanner Hudson,37,Non-binary,9,7.580093391131376,"['Feature B', 'Feature C', 'Feature A']"
+1d3b95a4-28b1-414f-ba20-08922731c0a8,Jeffrey Graham,64,Non-binary,57,6.629123687953969,"['Feature D', 'Feature B', 'Feature C', 'Feature A']"
+ac5358d4-af92-46fa-92c6-cfdebb423a4c,Lisa Williams,32,Female,80,5.6673569907602115,"['Feature D', 'Feature A', 'Feature B', 'Feature C']"
+c93a45b7-0b0a-4b03-9d86-b8f1b6a49c8e,Nicholas Mitchell,23,Female,67,2.3517511074589823,"['Feature D', 'Feature C', 'Feature A', 'Feature B']"
+0b524dfa-aad1-46fb-a98f-8dbbd12690ee,Scott Hendricks DVM,61,Male,58,8.52130570199453,['Feature C']
+445459a4-155a-4e12-a711-d06213425af3,Brittany Clark,48,Female,9,9.002877183223697,"['Feature D', 'Feature A', 'Feature B']"
+efbc7e03-205c-4c14-8aac-25ef900be74e,Shannon Campbell,58,Female,41,2.624875242077077,['Feature D']
+8c366448-a20b-43d1-b7eb-0bd01a493f76,Keith Gonzalez,42,Non-binary,88,5.977073361392894,"['Feature D', 'Feature C', 'Feature B', 'Feature A']"
+672ab761-9cc4-4441-ada6-952d4735d49b,Ashley Spencer,62,Non-binary,100,5.180275228092216,"['Feature D', 'Feature A']"
+5c208a72-ee66-4dad-b5fb-6ab5c2df646d,Dr. Dawn Walters MD,44,Female,48,6.738076459330516,['Feature C']
+39fcb7fc-1f25-4e80-8676-b66da7c2ce2f,Peggy Henry,34,Non-binary,29,3.443910105412444,"['Feature B', 'Feature A', 'Feature C', 'Feature D']"
+a329cf67-78fa-4141-a242-82b83b9d4756,Todd Reed,49,Female,31,6.307345940188039,"['Feature A', 'Feature B', 'Feature C', 'Feature D']"
+d7eef7d0-5b80-4e3b-8949-9f6c6f87d5b3,Brian Lowe,42,Non-binary,39,8.439018584021944,"['Feature C', 'Feature A', 'Feature B']"
+fc3942a4-1f5e-4cfe-b663-23577e86286e,Mariah Anderson,39,Non-binary,64,9.752726432265112,"['Feature D', 'Feature B', 'Feature C', 'Feature A']"
+bfcccc05-e059-4cf3-89a2-2ef7fe96b87a,Peter Miller,59,Non-binary,90,4.358887143267383,"['Feature D', 'Feature B']"
+54805086-81cb-4798-9489-c00fd0eb9cdc,Anthony Keith,54,Non-binary,43,8.955741218815938,"['Feature C', 'Feature B']"
+05cf96a7-c640-4b69-a5be-6366726803a1,David Brennan,62,Non-binary,30,8.496711101625577,"['Feature B', 'Feature C']"
+0c3cd6e9-ce6d-4154-bae8-82374dcb792e,Dana Brown,52,Female,73,3.6365867856872036,"['Feature A', 'Feature B']"
+7d8d8153-3056-4455-92d5-75b8d77a3592,Stacy Chavez,53,Female,6,6.830426140796633,"['Feature B', 'Feature A', 'Feature D', 'Feature C']"
+8c4232c2-e75f-4ec0-9395-a3c3ba5a7c8d,Jason Johnston,45,Male,26,4.629165174701889,"['Feature D', 'Feature C', 'Feature B']"
+eae6c806-9f10-44b9-b08f-7b7a05dce203,Carrie Jones,40,Male,96,9.312713172238052,"['Feature A', 'Feature C', 'Feature D']"
+adadcc2d-f101-482a-8608-6946e5c04f4a,Nathan Cook,26,Female,52,8.28912653135031,"['Feature C', 'Feature D', 'Feature B', 'Feature A']"
+5a31e253-8583-4a47-be9d-ef51fd95a3f6,Edwin Casey,22,Male,21,2.5680902947514825,"['Feature A', 'Feature C']"
+4cfcb7bc-8b79-4f6a-94fb-66e61bfbb005,Robert Jackson,59,Male,58,1.102380813173229,['Feature A']
+3ccd1e6f-0b59-480c-adc9-fd35cf54152c,Hannah Rosario,36,Male,39,5.158545417199693,"['Feature D', 'Feature C', 'Feature A']"
+c2a20702-3f49-4a6a-94d5-875b4faa2343,Drew Jacobs,41,Male,19,3.8222656256799947,"['Feature A', 'Feature C', 'Feature D']"
+9b5deec3-35a5-42de-8fa2-d8256e7b3359,Katelyn Wheeler,28,Female,44,1.233245557916944,"['Feature B', 'Feature C', 'Feature A']"
+2fd10f42-a320-403c-8181-b679316d9c1f,Dr. Dorothy Logan,46,Female,31,6.968866245941104,"['Feature D', 'Feature C', 'Feature B', 'Feature A']"
+45f616e5-1cfc-4466-90b0-a711f366ef0a,Michael Walker,24,Male,19,4.3834125269179935,['Feature B']
+dbf2d22c-049b-439d-9cfd-84496ce5ceda,Tiffany Smith,26,Male,40,7.778449088088887,"['Feature B', 'Feature C', 'Feature A']"
+a54b4452-11ae-4268-ab2b-a01ef374fed2,Nicholas Benitez,24,Male,28,5.89549349126785,"['Feature C', 'Feature D', 'Feature A', 'Feature B']"
+b0ab0e91-13f0-45d3-ad21-e558ded03b31,Alexandra Singleton,26,Non-binary,53,2.337665009768981,['Feature B']
+6985cd3e-44bc-497d-8550-5950d4232682,Jeffrey Schultz Jr.,40,Female,54,9.067531473878473,"['Feature D', 'Feature B', 'Feature A', 'Feature C']"
+38366483-4107-47fc-999d-c0f45e1adee8,Steven Underwood,40,Non-binary,49,5.137128827976076,"['Feature B', 'Feature A', 'Feature C']"
+6d529df7-c7c3-44d8-8b8a-5567c9418229,Melissa Taylor,50,Male,88,8.318116046774758,"['Feature C', 'Feature B', 'Feature A', 'Feature D']"
+75c835f0-b473-4b17-bfa6-f80425ba8283,William Green,28,Male,31,8.719990895243171,"['Feature C', 'Feature A', 'Feature D', 'Feature B']"
+884ad974-c90f-4f89-9fc2-01db39a647bb,Katrina Franklin,59,Male,8,8.394910751260674,"['Feature D', 'Feature A', 'Feature B', 'Feature C']"
+eb6fff67-6dd6-492c-951f-d45e6623963c,Margaret Collins,36,Female,50,5.711332837194902,"['Feature C', 'Feature D', 'Feature B', 'Feature A']"
+72804b19-f732-49b8-aa95-e21f5e881013,Daniel Hernandez,30,Male,87,5.2622491632082635,['Feature A']
+e3c78ca1-e2cf-47d3-b090-a8c3e7474a2a,Daniel Jones,45,Non-binary,97,7.3598379600671135,"['Feature C', 'Feature A', 'Feature B']"
+581e3f24-006c-496e-8ad0-25fb9915354f,Julia Hill,38,Female,46,1.8916500758634116,"['Feature D', 'Feature A', 'Feature C', 'Feature B']"
+a55e8f10-b304-4877-8e14-505ecb6af571,Lee Crawford,55,Female,25,2.747232751790566,['Feature C']
+fbeaebdc-155e-4fd1-9eaa-9d987b5383ec,Tommy Gardner,48,Female,64,5.1428458848403436,"['Feature B', 'Feature D', 'Feature A', 'Feature C']"
+8da1ec13-540b-4f5d-9eda-15cd595707b2,Denise Jones,65,Male,88,6.8435659533058555,"['Feature A', 'Feature D']"
+ea44b2f7-b0fa-4c36-ad9e-7854881f6e1a,Crystal Watson,31,Non-binary,43,4.555758533952417,"['Feature D', 'Feature C', 'Feature B']"
+5315a4db-a880-4e22-8b4e-e053071b026c,Cory Scott,39,Male,64,2.7978403784240147,['Feature D']
+78f8625d-6a69-402f-9541-f12d1a821afc,Sara Jacobson,40,Non-binary,25,6.170582176884725,"['Feature B', 'Feature C']"
+839328cf-6c92-42f8-8b92-f1745707b7fe,Pamela Wilson,38,Non-binary,29,6.21224575081414,"['Feature A', 'Feature C', 'Feature B', 'Feature D']"
+4e9d509e-b4f0-4271-914e-3a5090712c4c,Brandon Dudley,60,Non-binary,91,7.698376943944684,"['Feature A', 'Feature D', 'Feature C', 'Feature B']"
+b84e4164-9e61-467c-b23f-3f081206534a,Kenneth Hoffman,26,Non-binary,88,5.531277877571405,"['Feature A', 'Feature D']"
+386f9e4d-fa37-498f-8f6d-214a7451c2f4,George Rush,35,Female,27,9.740645578629634,"['Feature D', 'Feature C']"
+4dd0f25e-37e0-49df-b7fa-3cc4a32c3ae7,Natasha Smith,28,Female,9,3.9895550946715166,"['Feature C', 'Feature A', 'Feature D']"
+68f888d8-cc19-4114-9a4c-bd5effeb4c63,Cynthia Walker,51,Non-binary,49,9.87729502862978,"['Feature A', 'Feature D']"
+0db4fd29-a8dd-423c-8fe3-70ff3b99e544,Gary Martinez,55,Non-binary,59,8.609494558234669,['Feature A']
+070a18f1-d082-40b3-997e-fb58d95483e2,Tonya Smith,53,Non-binary,5,2.354825434327371,['Feature B']
+23ee1277-f75e-4ccd-916c-5f900eb1c896,Anthony Butler,32,Male,60,4.555482103564313,['Feature C']
+0547ef44-5b03-4c29-9abf-3cb38d060efa,Joyce Tate,29,Female,64,9.55539879402865,"['Feature C', 'Feature B', 'Feature A']"
+0065eda2-54c4-4f2f-b8af-c7e7f2f30d0c,Candace Coffey,56,Female,32,9.21566875133694,['Feature A']
+cf46e2e2-6ab8-4852-876b-0d5b70edf1a0,Sara Mcdonald,58,Female,61,7.4293077747745695,['Feature C']
+fb8ff330-3a5f-4dd7-9642-953ff8711537,Mrs. Rachael Young,50,Non-binary,31,1.4412788348779184,"['Feature A', 'Feature D']"
+21535044-50f5-4356-bde5-d964ba5187d0,Angela Romero,30,Non-binary,99,2.9822239647113364,"['Feature B', 'Feature C', 'Feature D']"
+8fe5823a-c789-4b4b-b3e3-f620dad97855,Daniel Haynes,57,Non-binary,65,7.640396447109723,['Feature B']
+2a21fdc1-dc1c-4abd-9567-cb5e4199701f,Dr. Christy Woods,35,Female,74,5.846625323282,"['Feature D', 'Feature A', 'Feature B', 'Feature C']"
+e72f813e-a739-4519-9a67-b6fe5c8fdbbc,Krista Pierce,61,Female,25,7.976472863327502,"['Feature A', 'Feature D', 'Feature C']"
+e31ab6cc-b618-42ad-a930-3726465dcb46,Allison Jones,65,Female,19,6.737570172915209,"['Feature D', 'Feature A', 'Feature B']"
+ae0e5eab-be81-4975-8a36-1defb54b59bf,Jason Rodriguez,41,Non-binary,49,4.688132231213167,['Feature A']
+1bb85a3a-4e35-4b27-b675-0fa6dcb74295,Robert Woods,54,Female,65,1.2334531371452493,"['Feature A', 'Feature C', 'Feature D']"
+4736dcb8-2c76-4e31-ba5c-5b85f48fda8c,Paul Rhodes,33,Non-binary,48,1.3970493498676233,"['Feature B', 'Feature A', 'Feature C', 'Feature D']"
+04b6fd96-9c18-4740-88d3-00445c0cc8c9,Michael Brown,29,Female,42,8.547818082719896,"['Feature D', 'Feature B', 'Feature A']"
+738f774a-41cc-4b31-9d6f-6ece7b789973,Felicia Martinez,22,Female,81,7.553440229126147,"['Feature C', 'Feature D']"
+e48be20d-5ca8-4e26-b354-3a9a5d4d2a5f,Nicholas Gordon,65,Non-binary,53,2.8376173096410517,"['Feature B', 'Feature A', 'Feature D']"
+f4238975-7a46-4132-ba53-086ab1d7d4d4,Edward Hernandez,48,Male,19,6.243978283982094,['Feature B']
+7cde7cb4-ab9a-41ed-b285-25865963942a,Anne Morales,22,Non-binary,31,5.976141669171474,"['Feature A', 'Feature D', 'Feature B', 'Feature C']"
+57305054-8ccb-4e9e-9a18-147699188ae3,Susan Shaw,45,Non-binary,25,9.74312771727861,"['Feature A', 'Feature D']"
+f8190108-5106-4aac-8640-704a6e6586ab,James Riddle,59,Non-binary,53,2.194049375412426,['Feature D']
+81c65929-3c97-4e97-9534-fad07344299e,Antonio Warren,39,Male,12,5.611795190904438,"['Feature C', 'Feature B', 'Feature A', 'Feature D']"
+ecb02b58-3d4f-4517-bfaf-7d677dff7792,Mary Gonzalez,22,Non-binary,83,2.756018883263429,['Feature C']
+da85a973-ac56-46f9-9893-dd0c6288be84,Ruben Brown,38,Male,95,3.421189484089818,"['Feature C', 'Feature A', 'Feature B', 'Feature D']"
+e1cef37d-5ed9-4ef0-a3b1-8d0d6677d040,Robert Adams,27,Non-binary,53,9.84826501476614,"['Feature A', 'Feature B']"
+e61f245c-57cc-483b-8d20-f40d4b4867fb,Terry Rodriguez,24,Female,23,9.117909255597196,"['Feature D', 'Feature A']"
+1eb36b58-6302-4a43-9039-752e65a4ceeb,Christian Owens,54,Female,6,4.132381881128531,"['Feature C', 'Feature D', 'Feature B']"
+0c385e25-3121-4f0a-9468-df522988dad6,Brandon Ortiz,60,Male,84,8.744659203982614,"['Feature B', 'Feature C', 'Feature D', 'Feature A']"
+a93d7961-fd9f-45a7-a2ce-3f080a38d326,Robert Frank,26,Male,52,2.172947629931692,"['Feature D', 'Feature B', 'Feature A']"
+3f3f8a3f-204f-41cd-87ce-06d86102bb3e,Stephanie Campbell,49,Female,32,2.857228844577177,"['Feature A', 'Feature B', 'Feature C', 'Feature D']"
+7df402d0-3561-49dc-8738-a4905fdffcb1,Amy Perez,31,Male,46,4.1004558048333735,['Feature A']
+28f298be-1608-49e9-be09-9748ad38e39e,Nicholas Farmer,56,Male,64,9.85255829387877,"['Feature A', 'Feature C', 'Feature B']"
+0afc0232-4542-4679-8400-0291598d3c63,Caitlin Castillo,23,Female,92,4.32046923653521,['Feature D']
+b0d248aa-7b67-4998-bdf6-70ec4ab16952,Anna Kline,58,Non-binary,83,5.826018908901224,"['Feature D', 'Feature C', 'Feature A']"
+c809886b-3a12-4489-8995-1315a846c613,Richard Richardson,31,Non-binary,23,1.7842882301842022,"['Feature C', 'Feature D', 'Feature A']"
+94002ee4-2b04-441a-b09c-4a1d9264f793,Melinda Johnson,57,Non-binary,92,1.007512204012373,"['Feature D', 'Feature A']"
+e8d44179-a0f9-4b94-bc0c-04b29f10f89e,Laura Johnson MD,44,Female,96,3.078705734335453,"['Feature B', 'Feature D', 'Feature C']"
+9ea7d440-3379-4d3f-bf30-f44a8ff2d38a,Maria Mitchell,37,Female,57,4.843779227762281,['Feature B']
+ea74617d-658f-44a9-a1b0-d5d4affde955,Joshua Valdez,40,Female,19,1.6482556615003987,"['Feature D', 'Feature B', 'Feature A']"
+c805a663-c3cf-4cc2-a8dd-e823e2231b4d,Betty Clark,24,Male,21,9.339107658197205,"['Feature C', 'Feature A']"
+9dd5b362-0bd0-40db-b68b-19cb18bbd9c6,Hailey Brown,22,Non-binary,7,8.238372369998055,['Feature C']
+a092077b-f47f-40ab-81f2-11a7f89ad55d,Dr. Jessica Welch,36,Male,42,3.1212775533649006,"['Feature C', 'Feature A']"
+ce58f49e-0cbc-42b2-8f10-4255a1e0ce65,Theresa Smith,56,Non-binary,39,1.1544159105804994,"['Feature B', 'Feature A']"
+c6f29f30-6b94-4f1b-9660-7cc8ed28bca5,Kevin Buchanan,38,Female,63,8.37257800711977,"['Feature A', 'Feature B', 'Feature D', 'Feature C']"
+cf987bbc-f5b3-4494-a75f-08c74f6b4f02,Matthew Finley,25,Male,48,1.154519030599689,"['Feature A', 'Feature C']"
+edcd87ab-12a0-4ebb-98d4-8787de12347a,Lisa Fisher,22,Male,3,2.754580773492349,"['Feature A', 'Feature B']"
+9c8e0c08-e7ee-4d76-9c2b-12e042d92ac9,James Mccarthy,33,Non-binary,4,7.953328510972904,"['Feature C', 'Feature B', 'Feature A', 'Feature D']"
+30ac6098-9371-46fe-ba31-3fa671a10bb4,William Roach,38,Female,30,9.408248045288474,"['Feature A', 'Feature B', 'Feature D', 'Feature C']"
+7699857d-0cfb-4a8e-953a-99fb6a760ecd,Anthony Glass,55,Male,42,9.901469161747418,"['Feature D', 'Feature B', 'Feature C']"
+1da15882-6812-4306-a1fe-79b09c1040b5,Joseph Cruz,60,Female,45,9.657612906666417,['Feature C']
+5c750a67-fc44-4644-be75-7f695c9b17c9,Terry White,46,Female,18,5.31602196449122,"['Feature B', 'Feature C', 'Feature D']"
+7b04214f-0283-4ef5-ba94-99e4c6a48ecc,Kathy Harris,53,Female,45,1.7685879145299386,['Feature D']
+77e792b7-8f98-4ee7-b728-56e55c6596c7,Jordan Fletcher,34,Female,80,6.510087858825292,"['Feature C', 'Feature D', 'Feature A']"
+791d1d3f-af72-4243-af17-d6352a70d941,Brandon Daniels,22,Non-binary,78,3.6235384265493416,"['Feature A', 'Feature C', 'Feature D']"
+6da380d5-542e-43e2-8253-d48270a6decb,Jose Orozco,28,Male,50,1.035714710314077,"['Feature A', 'Feature D']"
+f266b293-31b9-4d75-9f2c-9344f587641c,Matthew Gray,58,Female,34,8.118398601519337,"['Feature D', 'Feature A']"
+ca44a3ec-8625-472a-be7f-c5d5df3e6f2c,Nicole Lopez,36,Non-binary,76,6.917670060703864,['Feature B']
+b106c0f5-bd1e-4c45-9859-68cae9ad2fa9,Steven Potter,42,Non-binary,19,1.814801850840473,['Feature C']
+d1e7f440-08b6-4ea0-8066-1e0c97dd1e61,Tracy Blair,35,Female,68,9.291666789272107,['Feature B']
+c1184879-76c3-463b-9f73-626b3901b093,Maria Williams,47,Female,21,2.6400813404031225,"['Feature C', 'Feature B']"
+029220a8-e792-4cac-94c5-53d6635d567b,Vanessa Kaiser,43,Female,70,9.453124214911652,"['Feature B', 'Feature A', 'Feature D', 'Feature C']"
+dd087c51-adc3-49e1-bf16-35f933bd7dac,Virginia Perez,36,Female,55,6.92080527639862,"['Feature D', 'Feature B']"

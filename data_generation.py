@@ -117,3 +117,9 @@ if __name__ == "__main__":
     print("- data/champions.csv")
     print("- data/app_usage_kpis.csv")
     print("- data/champions_kpis.csv")
+
+# Dependencies for pip
+# Run the following command to install all dependencies
+# pip install faker pandas scikit-learn
+# Execute the command to run the file:
+# python data_generation.py
