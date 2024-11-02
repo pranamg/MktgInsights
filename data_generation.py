@@ -2,6 +2,7 @@ from faker import Faker
 import random
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
+import os
 
 fake = Faker()
 
@@ -18,6 +19,7 @@ def generate_employees(num_employees=1000):
             "Gender": random.choice(["Male", "Female", "Non-binary"])
         }
         employees.append(employee)
+    save_to_csv(employees, 'data/employees.csv')
     return employees
 
 def generate_app_users(employees, num_users=200):
@@ -34,6 +36,7 @@ def generate_app_users(employees, num_users=200):
             "Features Used": random.sample(["Feature A", "Feature B", "Feature C", "Feature D"], random.randint(1, 4))
         }
         users.append(user)
+    save_to_csv(users, 'data/app_users.csv')
     return users
 
 def generate_champions(users, num_champions=20):
@@ -48,6 +51,7 @@ def generate_champions(users, num_champions=20):
             "Specialization": random.choice(["Specialization A", "Specialization B", "Specialization C"])
         }
         champions.append(champion)
+    save_to_csv(champions, 'data/champions.csv')
     return champions
 
 def clean_and_preprocess_data(df):
@@ -77,3 +81,8 @@ def aggregate_kpis(users, champions):
     }).rename(columns={'Champion ID': 'Number of Champions'}).reset_index()
 
     return app_usage_kpis, champions_kpis
+
+def save_to_csv(data, filename):
+    df = pd.DataFrame(data)
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    df.to_csv(filename, index=False)

@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import os
 from data_generation import generate_employees, generate_app_users, generate_champions, clean_and_preprocess_data, aggregate_kpis
 
 st.title('🎈 Marketing Strategy Dashboard')
