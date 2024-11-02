@@ -46,7 +46,7 @@ The project includes a Streamlit app for visualizing the generated data. To run 
 streamlit run streamlit_app.py
 ```
 
-The app provides a dashboard with key metrics and visualizations for employees, app usage, and champions.
+The app now imports data directly from the CSV files in the `data` directory using `pd.read_csv`. The app provides a dashboard with key metrics and visualizations for employees, app usage, and champions.
 
 ## Further Reading
 
