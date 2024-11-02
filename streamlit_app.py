@@ -1,7 +1,7 @@
 import streamlit as st
 from data_generation import generate_employees, generate_app_users, generate_champions
 
-st.title('🎈 App Name')
+st.title('🎈 Marketing Strategy Dashboard')
 
 employees = generate_employees()
 users = generate_app_users(employees)
